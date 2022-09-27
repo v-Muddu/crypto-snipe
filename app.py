@@ -1,1 +1,0 @@
-print('Hey there! this is project crypto-sniper!!!')
